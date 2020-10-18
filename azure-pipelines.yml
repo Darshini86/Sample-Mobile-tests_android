@@ -16,5 +16,10 @@ steps:
     gradleWrapperFile: 'gradlew'
     gradleOptions: '-Xmx3072m'
     publishJUnitResults: false
-    testResultsFiles: '**/TEST-*.xml'
+    testResultsFiles: '*.xml'
     tasks: 'assembleDebug'
+- task: CopyFiles@2
+  inputs:
+    contents: '**/*.apk'
+    targetFolder: '$(build.artifactStagingDirectory)'
+- task: PublishBuildArtifacts@1    
