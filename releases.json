@@ -9,7 +9,7 @@
         "os": "Linux",
         "version": "7.7.2",
         "filename": "Katalon_Studio_Linux_64-7.7.2.tar.gz",
-        "url": "https://download.katalon.com/7.7.2/Katalon_Studio_Engine_Linux_64-7.7.2.tar.gz"
+        "url": "https://download.katalon.com/7.7.2/Katalon_Studio_Engine_Linux_64-7.7.2.gz"
     },
     {
         "os": "Windows 32",
@@ -81,7 +81,7 @@
         "os": "Linux",
         "version": "7.6.6",
         "filename": "Katalon_Studio_Linux_64-7.6.6.tar.gz",
-        "url": "https://download.katalon.com/7.6.6/Katalon_Studio_Engine_Linux_64-7.6.6.tar.gz"
+        "url": "https://download.katalon.com/7.6.6/Katalon_Studio_Engine_Linux_64-7.6.6.gz"
     },
     {
         "os": "Windows 32",
@@ -153,7 +153,7 @@
         "os": "Linux",
         "version": "7.6.0",
         "filename": "Katalon_Studio_Linux_64-7.6.0.tar.gz",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v7.6.0/Katalon_Studio_Engine_Linux_64-7.6.0.tar.gz"
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v7.6.0/Katalon_Studio_Engine_Linux_64-7.6.0.gz"
     },
     {
         "os": "Windows 32",
@@ -201,7 +201,7 @@
         "os": "Linux",
         "version": "7.5.10",
         "filename": "Katalon_Studio_Linux_64-7.5.10.tar.gz",
-        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v7.5.10/Katalon_Studio_Engine_Linux_64-7.5.10.tar.gz"
+        "url": "https://github.com/katalon-studio/katalon-studio/releases/download/v7.5.10/Katalon_Studio_Engine_Linux_64-7.5.10.gz"
     },
     {
         "os": "Windows 32",
